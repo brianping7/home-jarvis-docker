@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd /root/home-jarvis
+npm install
+nodejs index.js
+
+exit 0
